@@ -16,7 +16,9 @@ New java project can be created in IntellijIdea using maven as given in below
         </dependencies>
         
 3.Custom crawler class should be added by extending the WebCrawler class provided by Crawler4j framework. Two methods, “shouldVisit” and “visit” methods should be overridden to provide expected behavior for the crawler
+
 4. Main class is created as given below to configure and start the crawler
+
 5.Once you run the program, crawler will start to crawl web starting from the seed URL. Crawler output will be as follows,
 
 # Crawler4j Evaluation
