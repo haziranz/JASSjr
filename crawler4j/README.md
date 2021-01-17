@@ -5,7 +5,8 @@ New java project can be created in IntellijIdea using maven as given in below
 
 1. create new java project
 2.Following dependency should be added to pom.xml
-        <dependencies>
+       
+       -<dependencies>
             <dependency>
                <groupId>edu.uci.ics</groupId>
                <artifactId>crawler4j</artifactId>
